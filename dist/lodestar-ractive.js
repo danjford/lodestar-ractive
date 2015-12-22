@@ -1,7 +1,7 @@
 /* LodestarJS Router - 1.1.0. 
 Author: Dan J Ford 
 Contributors: undefined 
-Published: Mon Dec 21 2015 22:13:00 GMT+0000 (GMT) */
+Published: Tue Dec 22 2015 01:16:42 GMT+0000 (GMT) */
 
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
